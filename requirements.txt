@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+pandas_datareader
+ta
+scikit-learn
+xgboost
+statsmodels
+matplotlib
+seaborn
+jupyter
